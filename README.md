@@ -11,7 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732225.png">
+  <img align="center" alt="WINDOWS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732225.png">
 </div>
  
  <br>
