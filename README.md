@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-## Bem-vindo(a) ao perfil do lucas4fs 😁
-</div>
+# Bem-vindo(a) ao perfil do lucas4fs 😁
 
  <div>
    <a href="https://github.com/lucas4fs">
