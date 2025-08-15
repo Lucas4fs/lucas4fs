@@ -1,4 +1,4 @@
-# Automatizações, Dados e Programação!
+# Dados, Automações e Programação!
 
  <div>
    <a href="https://github.com/lucas4fs">
