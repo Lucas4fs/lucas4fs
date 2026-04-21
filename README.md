@@ -1,4 +1,4 @@
-# Dados, Automações e Programação!
+# Dados | Automações | Programação | Aprendizado de Máquina
 
  <div>
    <a href="https://github.com/lucas4fs">
