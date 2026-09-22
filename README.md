@@ -8,16 +8,16 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="WINDOWS" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/732/732225.png">
+  <img align="center" alt="Terminal" height="100" width="100" src="https://proicons.com/icon/41124.svg">
   <img align="center" alt="Java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
   <img align="center" alt="VBA" height="100" width="100" src="https://www.svgrepo.com/show/374159/vba.svg">
-  <img align="center" alt="Excel" height="100" width="100" src="https://proicons.com/icon/39179.svg">
+  <img align="center" alt="Excel" height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg">
   <img align="center" alt="Power BI" height="100" width="100" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-power-bi-embedded/default.svg">
   <img align="center" alt="Microsoft Fabric" height="100" width="100" src="https://learn.microsoft.com/fabric/media/fabric-icon.png">
   <img align="center" alt="Machine Learning" height="100" width="100" src="https://proicons.com/icon/97704.svg">
   <img align="center" alt="API" height="100" width="100" src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/azure-api-management-services.svg">
-  <img align="center" alt="Terminal" height="100" width="100" src="https://proicons.com/icon/41124.svg">
  
 </div>
  
