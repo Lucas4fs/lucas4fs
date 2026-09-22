@@ -14,6 +14,7 @@
   <img align="center" alt="VBA" height="100" width="100" src="https://www.svgrepo.com/show/374159/vba.svg">
   <img align="center" alt="Power BI" height="100" width="100" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-power-bi-embedded/default.svg">
   <img align="center" alt="Machine Learning" height="100" width="100" src="https://proicons.com/icon/97704.svg">
+  <img align="center" alt="Microsoft Fabric" height="100" width="100" src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/microsoft-fabric-data-warehouse.svg">
  
 </div>
  
